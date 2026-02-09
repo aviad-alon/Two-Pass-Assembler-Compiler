@@ -34,8 +34,8 @@ This two-pass assembler processes Assembly source code and generates machine cod
 
 ## Learning Outcomes
 This project provides practical experience with:
--Compiler construction and optimization
--Memory management in C and resource lifecycle
--Complex data structure design and implementation
--Pointer arithmetic and dynamic memory handling
--File processing and format specifications
+- Compiler construction and optimization
+- Memory management in C and resource lifecycle
+- Complex data structure design and implementation
+- Pointer arithmetic and dynamic memory handling
+- File processing and format specifications
